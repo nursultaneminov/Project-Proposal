@@ -1,5 +1,5 @@
 # Project-Proposal
-Capstone Project Proposal Submission
+Sudoku game
 public class Sudoku {
 
     public static void main(String args[]) {
