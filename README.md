@@ -1,5 +1,6 @@
 # Project-Proposal
 Sudoku game
+
 public class Sudoku {
 
     public static void main(String args[]) {
